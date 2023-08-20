@@ -6,3 +6,4 @@ Action: keyloggermodule executed on Windows user1
 Action: keyloggermodule executed on Windows user1
 Action: sysinfo executed on Windows user1
 Action: sysinfo executed on windows user1
+Action: sysinfo executed on windows user1
