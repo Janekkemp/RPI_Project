@@ -1,1 +1,3 @@
 
+
+Action: sysinfo executed on windows user2
