@@ -11,3 +11,4 @@ Action: sysinfo executed on windows user1
 Action: sysinfo executed on windows user1
 Action: sniffermodule executed on windows user1
 Action: sysinfo executed on linux user1
+Action: screenshotmodule executed on linux user1
